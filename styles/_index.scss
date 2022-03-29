@@ -26,7 +26,6 @@ ul {
 }
 li {
     list-style-type: none;
-    color: aqua;
     margin-right: 50px;
 }
 a {
@@ -65,9 +64,25 @@ a:hover {
 }
 /*end top navbar*/
 
-
-
-
+/*landingpage index.html*/
+.landingpage {
+    background-color: #FFFFFF;
+}
+.front{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 50px;
+}
+.end {
+    display: flex;
+    justify-content: center;
+}
+.developer {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+/*end landingpage*/
 
 
 /*footer*/
