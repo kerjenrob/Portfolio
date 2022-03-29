@@ -16,6 +16,8 @@ ul {
     justify-content: space-between;
 }
 .logo {
+    font-family: 'Lobster';
+    font-style: italic;
     font-size: 40px;
     color: #C38D9E;
 }
@@ -69,5 +71,11 @@ a:hover {
 
 
 /*footer*/
-
+.li-footer {
+    display: flex;
+    flex-direction: row; 
+}
+.made-by {
+    margin-left: 30px;
+}
 /*end footer*/
