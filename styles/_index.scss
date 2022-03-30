@@ -93,6 +93,18 @@ a:hover {
     flex-direction: row;
     justify-content: space-around;
 }
+.blue-section {
+    width: 100%;
+    max-height: 600px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #62e4d2;
+}
+.text {
+    max-width: 30%;
+}
 
 /* end about me*/
 
