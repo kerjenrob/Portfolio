@@ -105,6 +105,20 @@ a:hover {
 .text {
     max-width: 30%;
 }
+.photo-container {
+    display: flex;
+    align-self: center;
+}
+/*make all picures smaller with tinyjgp.com*/
+.img-about {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    display: flex;
+    align-self: center;
+    border-width: 50px;
+}
+
 
 /* end about me*/
 
